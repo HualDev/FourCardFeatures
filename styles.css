@@ -143,6 +143,10 @@ h1{
        width: 80%;
         }
 
+    .cards img{
+        right: 20px;
+    }    
+
    .cardsD{
        width: 220px;
         }
